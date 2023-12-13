@@ -1,2 +1,7 @@
-# vue-project
-nothing to declare, just training...
+## TESTANDO UM README (frontend)
+---
+Um texto qualquer aqui
+
+## Começando
+---
+Outro texto qualquer
